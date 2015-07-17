@@ -61,13 +61,13 @@ h1 span,
 h2 span,
 h3 span,
 h4 span {
-	color: #339BEB;
+	color: #237F04;
 }
 .text-colored {
-	color: #55acee;
+	color: #1A6911;
 }
 a {
-	color: #55acee;
+	color: #48FD0E;
 }
 a:hover {
 	color: #339BEB;
@@ -169,7 +169,7 @@ blockquote {
 	color: #ffffff;
 }
 .default-bg.blue {
-	background-color: #55acee;
+	background-color: #44A11B;
 }
 .translucent-bg {
 	color: #ffffff;
@@ -226,7 +226,7 @@ blockquote {
 	background-color: rgba(0, 0, 0, 0.7);
 }
 .translucent-bg.blue:after {
-	background-color: rgba(85, 172, 238, 0.7);
+	background-color: rgba(126, 216, 85, 0.5);
 }
 .translucent-bg .container {
 	z-index: 3;
@@ -311,7 +311,7 @@ blockquote {
 	transition: all 0.2s ease-in-out;
 }
 .btn-default {
-	color: #55acee;
+	color: #37BA0D;
 	border: 1px solid #cccccc;
 }
 .btn-default:hover {
@@ -348,7 +348,7 @@ blockquote {
 	padding: 12px 35px 12px 15px;
 	display: inline-block;
 	width: 100%;
-	background-color: #55acee;
+	background-color: #333333;
 	color: #ffffff;
 	position: relative;
 	text-decoration: none;
@@ -387,8 +387,8 @@ blockquote {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus,
 .nav-pills > li > a:hover {
-	background-color: #55acee;
-	border-color: #55acee;
+	background-color: #2FBB00;
+	border-color: #228C23;
 	color: #ffffff;
 }
 .nav-pills > li > a {
@@ -427,7 +427,7 @@ textarea {
 	border-radius: 0px;
 }
 .modal-header {
-	background-color: #55acee;
+	background-color: #155A00;
 	color: #ffffff;
 }
 .modal-header h4 {
@@ -476,7 +476,7 @@ textarea {
 }
 .main-navigation .navbar-default .navbar-nav > li.active > a {
 	background-color: transparent;
-	color: #55acee;
+	color: #23FD13;
 }
 .main-navigation .navbar-default .navbar-nav > li > a:hover,
 .main-navigation .navbar-default .navbar-nav > li.active > a:hover {
@@ -548,7 +548,7 @@ textarea {
 	-o-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
-	width: 30%;
+	width: 35%;
 }
 .logo,
 .site-name-and-slogan {
@@ -674,7 +674,7 @@ textarea {
 	bottom: -1px;
 	left: 0;
 	right: -1px;
-	background-color: rgba(85, 172, 238, 0.9);
+	background-color: rgba(28, 135, 8, 0.8);
 	cursor: pointer;
 	overflow: hidden;
 	opacity: 0;
